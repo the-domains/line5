@@ -6,9 +6,9 @@ color:
   saturation: 0.28876042971387506
   rhythmicContrast: 0.4398355733137578
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#231F20'
+    - '#97CA4B'
+    - '#FFFF00'
+    - '#808000'
+    - '#00FF00'
 name: 'Line5 '
