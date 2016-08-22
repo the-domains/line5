@@ -1,3 +1,4 @@
+layout_spectrum: 0.625409955624491
 typography_spectrum: 0.9838105679955333
 color:
   brandStrength: 0.2740083592943847
@@ -5,12 +6,9 @@ color:
   saturation: 0.28876042971387506
   rhythmicContrast: 0.4398355733137578
   brandColors:
-    - '#231F20'
-    - '#97CA4B'
-    - '#FFFF00'
-    - '#808000'
-    - '#00FF00'
-layout_spectrum: 0.625409955624491
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: 'Line5 '
-title: STAY  YOUNG MUCH LONGER !
-description: Line5 - the NEW revolutionary way to keep your skin wrinklefree !
